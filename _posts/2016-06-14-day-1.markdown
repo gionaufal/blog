@@ -2,13 +2,14 @@
 layout: post
 title:  "Day 1"
 date:   2016-06-14 22:50:47 -0300
-categories: FreeCodeCamp
+categories: FreeCodeCamp #100DaysOfCode
+excerpt_separator: <!--more-->
 ---
 
 Today I found about the [#100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4#.su8534aed) challenge.
 
 I have been struggling to learn to code for at least 4 years, going back and fourth, with many languages from R to JS. Since I found out about [FreeCodeCamp](http://freecodecamp.com) last October, my learning curve is improving. I have completed the Front End Development certificate on March, but then I hit the wall again. I have some difficult understanding Back End topics, so everything involving node.js is hard for me now.
-
+<!--more-->
 So, I'll use this challenge to force myself to practice again. It is possible that I lose some days, but my intention is to go through the 100 days without any failure. I still don't know what languages will I practice, as I'm inclined to learn Ruby but I have some background in Javascript, but I hope to end this challenge better than I'm entering, which is not very hard at this stage.
 
 You can follow my [GitHub profile](http://github.com/gionaufal) to see my progress.

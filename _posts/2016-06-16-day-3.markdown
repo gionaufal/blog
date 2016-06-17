@@ -3,10 +3,10 @@ layout: post
 title:  "Day 3"
 date:   2016-06-16 20:50:00 -0300
 categories: FreeCodeCamp #100DaysOfCode
+excerpt_separator: <!--more-->
 ---
 
 The hard thing of this challenge is building the habit. I don't have a lot of free time, but I do have one hour in the morning and I can find one in the evening.
----
-excerpt_separator: <!--more-->
----
+<!--more-->
+
 Another hard thing to chose is the language I'm practicing. I just started [codesaga](http://codesaga.com.br), a learning platform for Ruby, similar to [The Odin Project](http://theodinproject.com), but in Portuguese and with their own git server to validate the exercises. I'll post my solutions in [this repo](https://github.com/gionaufal/codesaga). And maybe I'll go back to The Odin Project again, as I have already started once or twice (like [this Tic Tac Toe game](https://github.com/gionaufal/tic-tac-toe) that was made for the project).
