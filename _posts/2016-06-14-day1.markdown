@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Day 1"
-date:   2016-06-14 22:59:47 -0300
-categories: "#100DaysOfCode" FreeCodeCamp
+date:   2016-06-14 22:50:47 -0300
+categories: FreeCodeCamp
 ---
 
 Today I found about the [#100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4#.su8534aed) challenge.
