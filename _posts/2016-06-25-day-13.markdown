@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 8"
+date:   2016-06-21 13:16:00 -0300
+categories: FreeCodeCamp #100DaysOfCode
+excerpt_separator: <!--more-->
+---
+
+The Ruby exercises in Codesaga are really fun. I think that I will go deeper in the language, and maybe try to understand more about backend, as I couldn't (for now) grasp this subject with Javascript.
+<!--more-->
+
+I always heard that to code you have first to understand the main topics. Variables, functions, loops, etc... And I can find great similarities in JS and Ruby (and Python, that I have some basic background too). So I'm hoping that learning Ruby will not be as difficult as it was learning JS, because I already know the basic concepts. Besides that, the Ruby syntax sugar makes typing easier, and I'm really enjoying it.
+
+Let's see where this is heading in the next few days.
