@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 18 - Mastering CSS selectors"
+date:   2016-06-29 14:32:00 -0300
+categories: FreeCodeCamp #100DaysOfCode
+excerpt_separator: <!--more-->
+---
+
+Yesterday I figured that my CSS skills are, at most, intermediary. I read some post on Medium (can't find the source) and discovered [CSS Diner](http://flukeout.github.io/) 
+<!--more-->
+
+This interactive tutorial teaches you all the main CSS selectors, some of them that I've never heard of. It's really a great way to practice. Besides that, it's relly beautiful! Even if you think you know a lot about CSS selectors, it's a fun game to play

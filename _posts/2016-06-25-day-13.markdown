@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Day 13"
-date:   2016-06-21 20:10:00 -0300
+date:   2016-06-25 20:10:00 -0300
 categories: FreeCodeCamp #100DaysOfCode
 excerpt_separator: <!--more-->
 ---
 
-Yesterday I finished a [tutorial](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/) for building an app with Node, Express and Mongo.  
+Yesterday I finished a [tutorial](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/) for building an app with Node, Express and Mongo. 
 <!--more-->
 
 As I've said before, back end is not my strongest point. This tutorial was great to understand more about this topics, as it is intended to someone who knows JS but is not very familiar whit it in the server side. 
