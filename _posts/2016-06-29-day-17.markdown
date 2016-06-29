@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 18 - Mastering CSS selectors"
+title:  "Day 17 - Mastering CSS selectors"
 date:   2016-06-29 14:32:00 -0300
 categories: FreeCodeCamp #100DaysOfCode
 excerpt_separator: <!--more-->
