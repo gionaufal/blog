@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 20 - CSS Meetup"
+date:   2016-06-30 20:15:00 -0300
+categories: FreeCodeCamp #100DaysOfCode
+excerpt_separator: <!--more-->
+---
+
+Today I attended a CSS Meetup. There were 2 pannels, the first about drawing with CSS and the second about math in CSS.  
+<!--more-->
+
+Both pannelists were great, and I'm sure I left knowing a lot more then when I entered the meetup. Now I have some ideas about how to implement both things, and will put to practice in the next days.
