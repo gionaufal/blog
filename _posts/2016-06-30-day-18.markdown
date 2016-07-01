@@ -6,7 +6,7 @@ categories: FreeCodeCamp #100DaysOfCode
 excerpt_separator: <!--more-->
 ---
 
-Today I attended a CSS Meetup. There were 2 pannels, the first about drawing with CSS and the second about math in CSS.  
+Today I attended a CSS Meetup. There were 2 pannels, the first [(Afonso Pacifer)](http://afonsopacifer.com/) about drawing with CSS and the second [(Willian Justen)](https://willianjusten.com.br/) about math in CSS.  
 <!--more-->
 
 Both pannelists were great, and I'm sure I left knowing a lot more then when I entered the meetup. Now I have some ideas about how to implement both things, and will put to practice in the next days.
