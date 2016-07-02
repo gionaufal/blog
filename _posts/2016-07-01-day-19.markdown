@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 19 - Implementing"
+date:   2016-07-01 19:58:00 -0300
+categories: FreeCodeCamp #100DaysOfCode
+excerpt_separator: <!--more-->
+---
+
+The exercise today was implementing something that I learn yesterday in the Meetup CSS. I chose to update my [portfolio site](http://gionaufal.com) and to make some CSS animations.
+<!--more-->
+
+The chosen feature was a flip card animation in the portfolio itens. Since I made this section I've wanted to improve it, and now it is way better than before. I still have to make some alternative for touch devices, since the flip card only works on mouse over, but I'm happy with the result.
