@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 21"
+date:   2016-07-03 19:58:00 -0300
+categories: FreeCodeCamp #100DaysOfCode
+excerpt_separator: <!--more-->
+---
+
+Today I make some more changes in my [portfolio site](http://gionaufal.com) and practiced more ruby in [Ruby Monk](http://rubymonk.com).
+<!--more-->
+
+On weekends it's a bit harder to practice than on weekdays, but I found some time to make improvements in my site. After that, I found Ruby Monk, to practice ruby fundamentals. It's like a interactive book, much like Eloquent Javascript is for JS.
