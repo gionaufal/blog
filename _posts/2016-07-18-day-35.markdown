@@ -6,8 +6,8 @@ categories: FreeCodeCamp #100DaysOfCode
 excerpt_separator: <!--more-->
 ---
 
-In the last weeks I've been diving in [the odin project](http://theodinproject.com). I have completed some interesting projects, such as recreating the [Google Homepage](http://htmlpreview.github.io/?https://github.com/gionaufal/the_odin_project/blob/master/html-css/index.html) (needs improvements, I was a bit lazy on this one), making a [jQuery Slider](https://htmlpreview.github.io/?https://github.com/gionaufal/the_odin_project/blob/master/jquery-slider/index.html#) and building a [Etch-a-sketch](http://htmlpreview.github.io/?https://github.com/gionaufal/the_odin_project/blob/master/js-jquery/index.html).   
+In the last weeks I've been diving into [the odin project](http://theodinproject.com). I have completed some interesting projects, such as recreating the [Google Homepage](http://htmlpreview.github.io/?https://github.com/gionaufal/the_odin_project/blob/master/html-css/index.html) (needs improvements, I was a bit lazy on this one), making a [jQuery Slider](https://htmlpreview.github.io/?https://github.com/gionaufal/the_odin_project/blob/master/jquery-slider/index.html#) and building a [Etch-a-sketch](http://htmlpreview.github.io/?https://github.com/gionaufal/the_odin_project/blob/master/js-jquery/index.html).   
 <!--more-->
 
 There projects were great for me to remember a lot about basic Javascript and jQuery. After that, I started to go deeper in Ruby, and as I had already started with the language, it wasn't so hard. The resources indicated by the odin project were great, specially [Learn to Program](https://pine.fm/LearnToProgram), a book with great examples (and great sense of humor too!).
-After practicing with Ruby it isn't hard to understand why so many people love the language. Compared to Javascript, it feels a lot more elegant and fun to write. 
+After practicing with Ruby it isn't hard to understand why so many people love the language. Compared to Javascript, it feels a lot more elegant and fun to write.
