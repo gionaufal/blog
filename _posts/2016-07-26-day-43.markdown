@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 43 - React"
+date:   2016-07-26 13:25:00 -0300
+categories: FreeCodeCamp #100DaysOfCode React
+excerpt_separator: <!--more-->
+---
+
+This week I'm learning more about React. And before you ask, no, I haven't finished the Odin Project. But the thing is: I found some really nice job opportunities that have React as a requirement. 
+<!--more-->
+
+I'm initially learning from [this react course](http://courses.reactjsprogram.com/courses/reactjsfundamentals). I found this course via [this post](https://medium.com/@bonham000/why-i-built-free-code-camps-front-end-projects-twice-c3dadfd03b6a#.x5x7anq3j) from a student from FreeCodeCamp, which lead me to [his site](http://sean-smith.me/assets/portfolio/25-react-projects/index.html) where Sean goes through his whole learning process. This is a great place to find react tutorials.
+
+Another thing I found out this week is that [some commits just doens't count](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/) in your github contributions. For example, if you commit something to a forked repo and don't make a pull request, this commit won't count. This is one reason that I have some missing days (other missing days were just lost, no problem admitting it) 
+
+This week, finishing the React course, I will try to rebuild the first Free Code Camp projects. Stay tunned! 
