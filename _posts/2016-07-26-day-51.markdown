@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 51 - Still with React.js"
+date:   2016-08-03 09:25:00 -0300
+categories: FreeCodeCamp #100DaysOfCode React
+excerpt_separator: <!--more-->
+---
+
+For some obscure reason, my home internet died last monday. As all of the tutorials I want to follow now are video based, I can't route my mobile internet. 
+<!--more-->
+
+So I just followed a [simple React tutorial](http://buildwithreact.com/tutorial) which brings only the basic concepts from React + JSX. At least for now I will have to follow only text based tutorials and projects. 
