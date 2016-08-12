@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 56 - Signing up in a bootcamp"
+date:   2016-08-11 22:39:00 -0300
+categories: CampusCode Ruby 100DaysOfCode
+excerpt_separator: <!--more-->
+---
+
+Yesterday I signed up in a bootcamp, Campus Code. I'll learn to be a full stack developer focused on Rails
+<!--more-->
+
+This will be an easier way to keep coding everyday, but an expensive one. I'll make 3 complete projects, and in the end I'll be able to work as a full stack web developer. 
