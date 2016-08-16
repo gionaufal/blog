@@ -21,4 +21,4 @@ It was a great start! With this exercise we could practice basic Ruby concepts s
 Today we will go deeper in those concepts. This first week will be a warm up, but we'll start our individual projects.
 
 Code your future!
-!(../_img/campuscode.png)
+!(http://gionaufal.github.io/_img/campuscode.png "Logo Campus Code")
