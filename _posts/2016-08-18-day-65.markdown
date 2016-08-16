@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Day 65 - Fist day at the bootcamp"
+date:   2016-08-16 12:17:00 -0300
+categories: CampusCode Ruby 100DaysOfCode
+excerpt_separator: <!--more-->
+---
+
+Yesterday was my first day at Campus Code. We started with a basic exercise in Ruby: making a command line aplication to include words in english and their translation in portuguese.
+<!--more-->
+
+It was a great start! With this exercise we could practice basic Ruby concepts such as:
+* String manupulation
+* Array manupulation
+* Hash manupulation
+* Loops
+* Conditionals
+* Variables
+* Methods
+
+Today we will go deeper in those concepts. This first week will be a warm up, but we'll start our individual projects.
+
+Code your future!
+!(../_img/campuscode.png)
