@@ -1,0 +1,76 @@
+---
+layout: post
+title:  "Day 388"
+date:   2016-06-18 18:05:00 -0300
+categories: MyJourney
+excerpt_separator: <!--more-->
+---
+
+Man! So much has changed since the last time I wrote here. In my last post I
+told that I'd signed up to a [Campus Code](http://campuscode.com.br). What I didn't
+know was that this training was going to turn my life upside down, for good.
+<!--more-->
+
+As you can see in my [GitHub](https://github.com/gionaufal) history, I had the
+most productive time when I was doing the Web Immersion training at Campus Code.
+This is because their training was fully focused on practicing your developer's
+skills. There I learned a lot about Ruby, Rails, TDD using Rspec and Capybara,
+and so much more.
+
+By the end of the training I had created, solo or in groups, 3 projects from
+scratch. My group's last project was called The Walking Dog, and you can see it
+[here](https://github.com/gionaufal/TheWalkingDog).
+
+But the most important part of this training was to show me that I could do it.
+I could quit the job that I disliked, quit my Marketing career and live like a
+developer. I realized that being a dev requires only practice and dedication.
+
+This was in the middle of October. I started searching for jobs, but I had a
+problem: I had just married, my wife was also quitting a job that damaging her
+and the junior positions that I was finding would not pay enough for both of us.
+I was facing a dilemma: I knew that I could be a good developer, but I had to
+find someone that thought the same way.
+
+By the end of November I was participating in a process to be a junior dev at
+Locaweb. This process would pay 14 devs to make the same training that I had
+already made, but required the participants to be almost 2 months available,
+without working. I was selected to this last phase of the process, but I
+couldn't afford this time without payment, so I declined. 
+
+That was when Campus Code's owners saw that I was really wanting to be a
+developer, so they offered me a job position there, to be part of their new
+'incubation' projects. I would work in a project for Locaweb, the same company
+that I wanted to be hired at. I would still not earn enough money to sustain our
+house with the same standard, but my wife supported me and we had some savings,
+so I said yes!
+
+I started there on February. Initially I developed some feature for Campus
+Code's website, but soon I started working on Locaweb's projects. I developed a
+new SKU for a product that the company was launching and fixed a lot of bugs. I
+had never worked with legacy code before, and this project was a great
+introduction to it.
+
+As soon as I changed my LinkedIn profile to 'Ruby on Rails Web Developer' I
+started receiving job proposals. It didn't matter to the companies that I had
+little working experience, the things that I had done until then seemed to be
+enough. Also, I was told that my previous experience with marketing and product
+management could be much valuable to companies, specially startups.
+
+And so, five months have passed. I was receiving a lot of good job offerings
+with good salaries, but none of the companies seemed right for me. I was looking
+for a place where I could develop and increase my skills. I told my bosses about
+it, and they managed to arrange me some pair programming tests at Locaweb with
+teams that they thought I would fit. At the time I was working close to a team
+at the company, and already had access to the place. It seemed like the right
+place for me to work.
+
+After two pair programming sessions, I was offered a mid-level developer
+job! I was skipping a step, would be part of a nice team and would have many
+challenges and opportunities to learn.
+
+So, now I'm here, the first week of my new job. I have to thank everyone that
+believed (and still believe) my potential, including my wife and the guys at
+Campus Code. Without them this career change would be much more difficult.
+
+I intend to write again about my journey here, or at my [Medium
+profile](http://medium.com/@gionaufal). Keep tuned!
