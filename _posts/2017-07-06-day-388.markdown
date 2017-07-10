@@ -1,15 +1,48 @@
 ---
 layout: post
-title:  "Day 388"
+title:  "Where I am now - Day 388"
 date:   2017-07-06 14:05:00 -0300
 categories: MyJourney
 excerpt_separator: <!--more-->
 ---
 
 Man! So much has changed since the last time I wrote here. In my last post I
-told that I'd signed up to a [Campus Code](http://campuscode.com.br). What I didn't
-know was that this training was going to turn my life upside down, for good.
+told that I'd signed up to a [Campus Code](http://campuscode.com.br). What I
+didn't know was that this training was going to turn my life upside down, for
+good.
 <!--more-->
+
+This will be a follow up post of my coding journey, so you can know what worked
+and what didn't work too much for me.
+
+As I told in some of my previous posts, I always enjoyed technology, but I
+thought that to work with it one must be very good at math and other exact
+sciences. When it was the time for me to chose a profession to get a bachelor's
+degree, I chosed to graduate in Marketing, as my father had worked with it my
+entire life, so it was an area that I already knew.
+
+As much as I liked working with marketing, in almost 6 years of professional
+experience I had never felt really fulfilled by it. As part of my journey to
+discover something that would make me professionally happy, I have studied a lot
+of topics, from digital marketing, psychology, statistics and programming.
+Coding, specially, has been a constant learning in my life since about 2012.
+
+I have tried many free sites and tutorials covering a lot of languages. I have
+studied via Coursera, Codecademy, Khan Academy, The Odin Projec, and so on,
+doing courses to learn Python, Ruby, Javascript and R. Despite all this sites
+having great resources, in none of them I felt that I was really learning. When
+I tried to do anything on my on, I would almost always fail miserably. The one
+resource that changed this was [freeCodeCamp](http://freecodecamp.com).
+
+In fCC I felt that I was really learning to do something useful, probably
+because their exercises and challenges really make you think on what you're
+doing. And so, in 5 months I got the Front End Certificate.
+
+But after the front end part, I felt somewhat lost trying to learn back end.
+I began to look for somewhere that I could have more resources to learn, and
+that's when I fount about Campus Code. I believed that this was the training
+that I needed to take my development career to the next level, so I got my
+savings and paid for it.
 
 As you can see in my [GitHub](https://github.com/gionaufal) history, I had the
 most productive time when I was doing the Web Immersion training at Campus Code.
@@ -69,8 +102,9 @@ job! I was skipping a step, would be part of a nice team and would have many
 challenges and opportunities to learn.
 
 So, now I'm here, the first week of my new job. I have to thank everyone that
-believed (and still believe) my potential, including my wife and the guys at
-Campus Code. Without them this career change would be much more difficult.
+believed (and still believe) my potential, including my wife, the guys at
+Campus Code and freeCodeCamp. Without them I believe that I would not have
+managed to make this career change.
 
 I intend to write again about my journey here, or at my [Medium
 profile](http://medium.com/@gionaufal). Keep tuned!
